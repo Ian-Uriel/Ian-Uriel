@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer from Argentina</h3>
 
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Ian-Uriel]**(https://github.com/Ian-Uriel)
+- 👨‍💻 All of my projects are available at [https://github.com/Ian-Uriel](https://github.com/Ian-Uriel)
 
 - 📫 How to reach me **ian.duhart.carles@gmail.com**
 
